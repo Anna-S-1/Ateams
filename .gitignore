@@ -1,0 +1,12 @@
+.env
+coverage
+dist
+jspm_packages
+node_modules
+serverless_mock
+.build
+package-lock.json
+*.yml.example
+yarn-error.log
+.npmrc.ex
+*.mp4
